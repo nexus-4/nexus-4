@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nexus-4 aka Antonio Gleyser;
-- 👀 I’m interested in in basically anything related to tech
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate with anyone
-- 📫 How to reach me: On my profile you got some links including instagram and LinkedIn 
+-  🔋 Software Engineering Student at ICEV;
+- 👀 I’m interested in in basically anything related to tech;
+- 🌱 I’m currently learning JAVA;
+- 💞️ I’m looking to collaborate with anyone;
+- 📫 How to reach me: On my profile you got some links including instagram and LinkedIn.
