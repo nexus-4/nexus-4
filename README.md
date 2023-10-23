@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning JAVA;
 - 💞️ My passion is yet to be discovered;
 - 📫 How to reach me: LinkedIn.
+- 📌 Looking for an Internship.
