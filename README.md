@@ -1,6 +1,6 @@
 # About Me :shinto_shrine:
 - 👋 Hi, I’m @nexus-4 aka Antonio Gleyser;
--  🔋 Software Engineering Student at ICEV;
+- 🔋  Software Engineering Student at ICEV;
 - 👀 Interested in full-stack, Artificial Intelligence...;
 - 🌱 I’m currently learning JAVASCRIPT;
 - 💞️ My passion is yet to be discovered;
@@ -13,4 +13,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,python,java,git&theme=dark" /> 
   </a>
 </p>
+
+ 
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
