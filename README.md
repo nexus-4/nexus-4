@@ -14,8 +14,15 @@
   </a>
 </p>
 
-<p align="center">
+# My status 
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus-4&theme=midnight-purple" alt="Top Languages">
+</p>
 
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-  
-<p/>
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+  </a>
+</p>
+
+
