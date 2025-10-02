@@ -1,11 +1,11 @@
 # About Me :shinto_shrine:
-- 👋 Hi, I’m @nexus-4 aka Antonio Gleyser;
-- 🔋  Software Engineering Student at ICEV;
-- 👀 Interested in full-stack, Artificial Intelligence...;
-- 🌱 I’m currently learning JAVASCRIPT;
-- 💞️ My passion is yet to be discovered;
+- 👋 Hi, I’m @nexus-4 aka Usul aka Antonio Gleyser;
+- 🔋 Software Engineering Student at ICEV;
+- 👀 Interested in back-end, Artificial Intelligence, computer vision...;
+- 🌱 I’m currently learning Laravel;
+- 💞️ My passion is intelligent computing;
 - 📫 How to reach me: LinkedIn.
-- 📌 Looking for an Internship.
+- 📌 Looking for challenges and ways to improve myself as a professional.
 
 # My Tech Stack :japanese_castle: 
 <p align="center"> 
