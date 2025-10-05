@@ -43,11 +43,6 @@
 
 ---
 
-### 🎧 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=antoniogleyser2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ff6a00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
----
-
 ### 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nexus-4&show_icons=true&theme=radical&title_color=A50000&icon_color=C8A951&text_color=E9E1C1&bg_color=0A0A0A" alt="GitHub Stats"/>
@@ -67,7 +62,7 @@
 ---
 
 ### 🥁 Vibes
-### 🎧 Now Playing
+## 🎧 Now Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=antoniogleyser2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ff6a00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 🖌️ Favorite quote: *“Samurai Champloo ain’t about honor… it’s about the journey.”*
