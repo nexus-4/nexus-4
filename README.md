@@ -45,7 +45,9 @@
 ---
 
 ### 🥁 Vibes
-🎧 Currently vibing to: **Nujabes - Battlecry**  
+### 🎧 Now Playing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=antoniogleyser2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ff6a00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ 
 🖌️ Favorite quote: *“Samurai Champloo ain’t about honor… it’s about the journey.”*
 
 ---
