@@ -6,17 +6,17 @@
 <h1 align="center">⚔️ Yo, I'm nexus-4 aka usul aka Antonio Gleyser — Code Ronin</h1>
 
 <p align="center">
-  <em>"Flow like a sword, code like a beat."</em>
+  <em>"Mugen, it means infinite"</em>
 </p>
 
 ---
 
 ### 🥷 About Me
 - 💻 Software Engineer & AI Engineer  
-- 🧠 Focused on Computer Intelligence, Visual Computing & Back-End  
-- 🎧 Hip-hop + Code = My Flow  
-- 🌍 Co-founder of a startup developing AI solutions  
-- 🏢 Currently doing an internship at Grupo Cev, working with national-level educational projects handling millions of data points  
+- 🧠 Focused on Computer Intelligence, Visual Computing & Full-Stack  
+- 🎧 Hip-hop + Jazz + Code = My Flow  
+- 🌍 Co-founder of startup developing AI solutions  
+- 🏢 Currently doing an internship at Grupo Cev, working with national-level educational projects as Software Engineer 
 
 ---
 
@@ -65,7 +65,7 @@
 ## 🎧 Now Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=antoniogleyser2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ff6a00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-🖌️ Favorite quote: *“Samurai Champloo ain’t about honor… it’s about the journey.”*
+🖌️ Favorite quote: *“Strength isn't just about power. It's about the will to keep going. – Mugen”*
 
 ---
 
