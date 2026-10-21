@@ -3,43 +3,50 @@
   <img src="https://i.imgur.com/NNgThgF.gif" alt="Mugen Samurai Champloo Banner" width="100%"/>
 </p>
 
-<h1 align="center">⚔️ Yo, I'm nexus-4 aka usul aka Antonio Gleyser — Code Ronin</h1>
+<h1 align="center">⚔️ Antonio Gleyser (nexus-4)</h1>
+<h3 align="center">AI Platform & Full-Stack Software Engineer</h3>
 
 <p align="center">
-  <em>"Mugen, it means infinite"</em>
+  <em>"Mugen, it means infinite."</em>
 </p>
 
 ---
 
 ### 🥷 About Me
-- 💻 Software Engineer & AI Engineer  
-- 🧠 Focused on Computer Intelligence, Visual Computing & Full-Stack  
-- 🎧 Hip-hop + Jazz + Code = My Flow  
-- 🌍 Co-founder of startup developing AI solutions  
-- 🏢 Currently doing an internship at Grupo Cev, working with national-level educational projects as Software Engineer 
+- 💻 **Software & AI Engineer** specialized in scalable Backend architectures (**PHP/Laravel, Java/Spring Boot**) and **Applied AI Systems** (LLM Orchestration, RAG, Computer Vision).
+- 🏢 **AI Software Engineer @ Grupo CEV:** Architected autonomous RAG agents automating **100% of first-line support** across 8 enterprise platforms, and engineered real-time chat & async video pipelines (Laravel, React, Docker, Redis).
+- 🚀 **Co-founder @ Alpha Solutions:** Co-built Computer Vision & telemetry systems showcased internationally at **Web Summit Lisbon**, deploying crowd analytics for 50,000+ attendee events.
+- 🎧 **My Mantra:** Hip-hop + Jazz + Clean Architecture.
+- 🌍 **Goal:** Building resilient, high-throughput AI and distributed systems globally.
 
 ---
 
 ### ⚙️ Tech Arsenal
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=gold)
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java&logoColor=red)
+![Laravel](https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=red)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-0A0A0A?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=red)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=539E43)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![YOLO](https://img.shields.io/badge/YOLO-0A0A0A?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032)
-![Machine Learning](https://img.shields.io/badge/AI%20%26%20ML-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=DC382D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ---
-### 🏆 Certifications & Achievements
-- **Oracle:** Database Design, Java Foundations, Artificial Intelligence with Machine Learning in Java, Database Foundations  
-- **AWS:** Cloud Foundations, Machine Learning Foundations  
-- **RedHat Academy**  
-- **Competitions:** 2nd place in programming competition, 4th place in AI chess competition, 4th place in startup battle with own idea  
-- **Startup:** Co-founder, designing AI solutions, project finalist in startup battle
 
+### 🚀 Key Focus & Architecture Principles
+- **Applied AI & MLOps/LLMOps:** RAG Infrastructure, Autonomous LLM Agents, Computer Vision Telemetry, Vector Context.
+- **Backend & Cloud:** Clean Architecture, SOLID, Microservices, Async Job Queues, RESTful APIs, Containerization (Docker).
+
+---
+
+### 🏆 Certifications & Achievements
+- **Red Hat:** Certified System Administrator (RHCSA)
+- **AWS:** Cloud Foundations | Machine Learning Foundations | Generative AI Foundations
+- **Oracle Academy:** AI with Machine Learning in Java | Java Foundations | Database Foundations & SQL
+- **Global Showcase & Awards:**
+  - 🌍 **Web Summit Lisbon:** Featured showcase for Computer Vision startup platform.
+  - 🥈 **2nd Place:** Regional Software Hackathon (Stockfish AI Integration).
+  - 🏆 **Finalist:** AI Chess Competition & Regional Startup Battle.
 
 ---
 
@@ -54,10 +61,10 @@
 
 ---
 
-### 📬 Contact
+### 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniogleyser)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniogleyser2@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=about.me&logoColor=white)](https://seuportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexus-4)
 
 ---
 
